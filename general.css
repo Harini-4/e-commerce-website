@@ -1,0 +1,18 @@
+body{
+  font-family:Arial;
+  max-width: 100%;
+  overflow-x:hidden initial !important;
+  background-color: #efefef;
+}
+html{
+  font-family:Arial;
+  max-width: 100%;
+  overflow-x:hidden;
+}
+p{
+  margin: 0;
+}
+span{
+  font-family: mv boli;
+  font-weight: bold;
+}
